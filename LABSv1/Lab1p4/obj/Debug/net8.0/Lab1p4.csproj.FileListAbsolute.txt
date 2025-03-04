@@ -1,0 +1,14 @@
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\bin\Debug\net8.0\Lab1p4.exe
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\bin\Debug\net8.0\Lab1p4.deps.json
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\bin\Debug\net8.0\Lab1p4.runtimeconfig.json
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\bin\Debug\net8.0\Lab1p4.dll
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\bin\Debug\net8.0\Lab1p4.pdb
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\Lab1p4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\Lab1p4.AssemblyInfoInputs.cache
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\Lab1p4.AssemblyInfo.cs
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\Lab1p4.csproj.CoreCompileInputs.cache
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\Lab1p4.dll
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\refint\Lab1p4.dll
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\Lab1p4.pdb
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\Lab1p4.genruntimeconfig.cache
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p4\obj\Debug\net8.0\ref\Lab1p4.dll

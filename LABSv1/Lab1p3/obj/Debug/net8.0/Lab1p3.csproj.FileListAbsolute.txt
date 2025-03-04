@@ -1,0 +1,14 @@
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\bin\Debug\net8.0\Lab1p3.exe
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\bin\Debug\net8.0\Lab1p3.deps.json
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\bin\Debug\net8.0\Lab1p3.runtimeconfig.json
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\bin\Debug\net8.0\Lab1p3.dll
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\bin\Debug\net8.0\Lab1p3.pdb
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\Lab1p3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\Lab1p3.AssemblyInfoInputs.cache
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\Lab1p3.AssemblyInfo.cs
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\Lab1p3.csproj.CoreCompileInputs.cache
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\Lab1p3.dll
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\refint\Lab1p3.dll
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\Lab1p3.pdb
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\Lab1p3.genruntimeconfig.cache
+C:\ \University\АТП СМОО\C#\LABSv1\Lab1p3\obj\Debug\net8.0\ref\Lab1p3.dll
