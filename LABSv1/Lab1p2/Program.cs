@@ -10,10 +10,10 @@ public static class Program
         for (x = xmin; x <= xmax; x += interval)
         {
             y = (1 - double.Pow(x, 2))/ (1 + double.Pow(x, 4));
-            string lineF = ("|----------------------|");
-            string numberF = ($"|     {number} Function       |");
-            //|----------------------|
-            string valuesF = ($"| X= {x :F3} | Y= {y :F3} |");
+            string lineF = ("|-----------------------|");
+            string numberF = ($"|      {number} Function       |");
+            string valuesF = ($"| X= {(x >= 0 ? " " : "")}{x:F3} | Y= {(y >= 0 ? " " : "")}{y:F3} |");
+            //string valuesF = ($"| X= {x :F3} | Y= {y :F3} |");
             writer.WriteLine(lineF);
             writer.WriteLine(numberF);
             writer.WriteLine(lineF);
@@ -31,7 +31,7 @@ public static class Program
         }
         else if (yPrint)
         {
-            writer.WriteLine("|----------------------|");
+            writer.WriteLine("|-----------------------|");
             writer.WriteLine($"The table created by <{student}>");
         }
     }

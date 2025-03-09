@@ -26,7 +26,7 @@ public static class Program
         {
             correct++;
         }
-        Console.WriteLine("Лікар зробив три уколи в інтервалі 30 хвилин. Скільки часу він витратив?");
+        Console.WriteLine("Лікар зробив три уколи в інтервалі 30 хвилин. Скіль1ки часу він витратив?");
         if (Console.ReadLine() == "30") 
         {
             correct++;
