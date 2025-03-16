@@ -7,7 +7,7 @@ public static class Program
         float x = -0.84f;
         float y = float.Sqrt(x + 1);
         Console.WriteLine($"Значення Y={y}");
-        for (int j = 0; j < 3; j++)
+        for (int j = 0; j < 3;j++)
         {
             float S = 1 + x / 2;
             float up = x, up2 = 1;
