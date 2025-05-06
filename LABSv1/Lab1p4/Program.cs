@@ -1,6 +1,4 @@
-﻿using System.Xml;
-
-namespace Lab1p4;
+﻿namespace Lab1p4;
 
 public static class Program
 {
