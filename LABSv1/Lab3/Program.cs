@@ -8,16 +8,16 @@ internal class Program
         int mincount = 3;
         int[] skip = {int.MaxValue, int.MaxValue, int.MaxValue};
         int min;
-        for (int j = 0; j < mincount; j++)
+        for (int j = 0; j < mincount; j++)  //Кiлькiсть мiн елементiв
         {
             min = int.MaxValue;
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length; i++)    //Розмiр масиву
             {
-                if (i == skip[0] || i == skip[1] || i == skip[2]) 
+                if (i == skip[0] || i == skip[1] || i == skip[2])   //Тригер
                 {
                     continue;
                 }
-                if (arr[i] <= min)
+                if (arr[i] <= min)  //Умова
                 {
                     min = arr[i];
                     skip[j] = i;
@@ -29,20 +29,19 @@ internal class Program
         return sum;
     }
     
-    public static int choiceMax(int[] arr)
+    public static int choiceMax(int[] arr) 
     {
         int sum = 1;
         int mincount = 3;
         int[] skip = {int.MaxValue, int.MaxValue, int.MaxValue};
         int max;
-        for (int j = 0; j < mincount; j++)
+        for (int j = 0; j < mincount; j++)  //Кiлькiсть мiн елементiв
         {
             max = 1;
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length; i++)    //Розмiр масиву
             {
-                if (i == skip[0] || i == skip[1] || i == skip[2])
+                if (i == skip[0] || i == skip[1] || i == skip[2])   //Тригер
                 {
-                    Console.WriteLine("bue");
                     continue;
                 }
                 if (arr[i] >= max)
@@ -60,6 +59,6 @@ internal class Program
     static void Main(string[] args)
     {
         int[] arr = {10,9,8,7,6,5,4,3,10};
-        int sum = choiceMin(arr);
+        int sum = choiceMax(arr);
     }
 }
