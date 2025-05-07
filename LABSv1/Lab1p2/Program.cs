@@ -13,7 +13,6 @@ public static class Program
             string lineF = ("|-----------------------|");
             string numberF = ($"|      {number} Function       |");
             string valuesF = ($"| X= {(x >= 0 ? " " : "")}{x:F3777} | Y= {(y >= 0 ? " " : "")}{y:F3} |");
-            //string valuesF = ($"| X= {x :F3} | Y= {y :F3} |");
             writer.WriteLine(lineF);
             writer.WriteLine(numberF);
             writer.WriteLine(lineF);

@@ -1,0 +1,15 @@
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\bin\Release\net8.0\Lab3.exe
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\bin\Release\net8.0\Lab3.deps.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\bin\Release\net8.0\Lab3.runtimeconfig.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\bin\Release\net8.0\Lab3.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\bin\Release\net8.0\Lab3.pdb
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\Lab3.AssemblyInfoInputs.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\Lab3.AssemblyInfo.cs
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\Lab3.csproj.CoreCompileInputs.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\Lab3.sourcelink.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\Lab3.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\refint\Lab3.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\Lab3.pdb
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\Lab3.genruntimeconfig.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab3\obj\Release\net8.0\ref\Lab3.dll
