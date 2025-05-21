@@ -35,7 +35,7 @@ public static class Program
         }
     }
 
-    static void Main(string[] args)
+    static void Main()
     {
         double y = -0.176, x = 2, xmin = -3, xmax = 3,value = 8;
         const string student = "Antanevych A. A.";

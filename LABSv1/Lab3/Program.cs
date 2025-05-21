@@ -124,7 +124,7 @@ internal class Program
         return sum;
     }
     
-    static void Main(string[] args)
+    static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         using (StreamWriter writer = new StreamWriter("Lab3result.txt"))

@@ -101,7 +101,7 @@ public static class Program
         }
     }
     
-    static void Main(string[] args)
+    static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         Level1();

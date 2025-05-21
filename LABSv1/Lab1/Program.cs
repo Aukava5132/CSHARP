@@ -2,7 +2,7 @@
 
 public static class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         double f;
         const double p = 3.14;

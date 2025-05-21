@@ -160,7 +160,7 @@ class Program
     }
     
 
-static void Main(string[] args) //(20 + 3 + 1) % 30 = 24
+static void Main() //(20 + 3 + 1) % 30 = 24
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         using (StreamWriter writer = new StreamWriter("Lab3p2result.txt"))
