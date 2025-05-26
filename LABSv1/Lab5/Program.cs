@@ -25,31 +25,21 @@ class Program
     }
     static public string Third()
     {
-        Random random = new Random();
-        int countMagazines = random.Next(3,10);
-        Magazine[] magazines = new Magazine[countMagazines];
-        for (int i = 0; i < countMagazines; i++)
-        {
-            magazines[i] = new Magazine();
-        }
-        Array.Sort(magazines, Comparison);
-        string topThreeMagazines = "";
-        topThreeMagazines += "Топ 3 журнали за рейтингом: \n"; 
+        Magazine[] magazines = GenerateMagazine.RandMagazines();
+        Array.Sort(magazines, (x, y) => x.AverateRaiting.CompareTo(y.AverateRaiting));
+        string topThreeMagazines = "Топ 3 журнали за рейтингом: \n";
         for (int i = 0; i < 3; i++)
         {
             topThreeMagazines += magazines[i].AverateRaiting + " "+ magazines[i].Name + "\n";
         }
         return topThreeMagazines;
     }
-    private static int Comparison(Magazine x, Magazine y)
-    {
-        return y.AverateRaiting.CompareTo(x.AverateRaiting);
-    }
+    
 
     static void Main() //(1 % 11 + 1) = 2 Варiант
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
-        Magazine magazine = new Magazine();
+        Magazine magazine = GenerateMagazine.RandMagazine();
         Console.WriteLine(First(magazine));
         Console.WriteLine(Second(magazine));
         Console.WriteLine(Third());

@@ -24,19 +24,7 @@ public class Magazine
 
     public Magazine()
     {
-        Random random = new Random();
-        string[] _names = new[] { "Forbes", "Новини 24", "Українська Правда", "Всесвіт", "Вітчизна" };
-        _name = _names[random.Next(_names.Length)];
-        _frequency = (Frequency)random.Next(Enum.GetNames(typeof(Frequency)).Length);
-        _date = new DateTime(random.Next(2012, 2025), random.Next(1, 12), random.Next(1, 28));
-        _edition = random.Next(1, 10);
-        int countArticles = random.Next(1, 3);
-        Article[] newArticles = new Article[countArticles];
-        for (int i = 0; i < countArticles; i++)
-        {
-            newArticles[i] = new Article();
-        }
-        _articles = newArticles;
+        
     }
 
     public override string ToString()

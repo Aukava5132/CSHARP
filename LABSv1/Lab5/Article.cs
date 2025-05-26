@@ -15,11 +15,7 @@ public class Article
 
     public Article()
     {
-        Random random = new Random();
-        string[] _names = new string[] { "Новини","Кроссворди","TV Програми","Працевлаштування","Лотереї" };
-        _person = new Person();
-        _name = _names[random.Next(_names.Length)];
-        _rating = random.Next(0,10);
+        
     }
 
     public override string ToString()
