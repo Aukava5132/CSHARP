@@ -26,7 +26,7 @@ class Program
     static public string Third()
     {
         Magazine[] magazines = GenerateMagazine.RandMagazines();
-        Array.Sort(magazines, (x, y) => x.AverateRaiting.CompareTo(y.AverateRaiting));
+        Array.Sort(magazines, (y, x) => x.AverateRaiting.CompareTo(y.AverateRaiting));
         string topThreeMagazines = "Топ 3 журнали за рейтингом: \n";
         for (int i = 0; i < 3; i++)
         {

@@ -1,0 +1,15 @@
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\bin\Debug\net8.0\Lab6.exe
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\bin\Debug\net8.0\Lab6.deps.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\bin\Debug\net8.0\Lab6.runtimeconfig.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\bin\Debug\net8.0\Lab6.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\bin\Debug\net8.0\Lab6.pdb
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfoInputs.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfo.cs
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\Lab6.csproj.CoreCompileInputs.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\Lab6.sourcelink.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\Lab6.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\refint\Lab6.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\Lab6.pdb
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\Lab6.genruntimeconfig.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab6\obj\Debug\net8.0\ref\Lab6.dll
