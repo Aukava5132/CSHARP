@@ -20,7 +20,7 @@ public class Article
 
     public override string ToString()
     {
-        return $"Автор статтi: {_person}. \nНазва статтi {_name}. \nРейтинг статтi: {_rating}";
+        return $"Автор статтi: {Person}. \nНазва статтi {Name}. \nРейтинг статтi: {Rating}";
     }
 
     public Person Person

@@ -38,7 +38,7 @@ class Program
 
     static void Main() //(1 % 11 + 1) = 2 Варiант
     {
-        Console.OutputEncoding = System.Text.Encoding.UTF8;
+        
         Magazine magazine = GenerateMagazine.RandMagazine();
         Console.WriteLine(First(magazine));
         Console.WriteLine(Second(magazine));

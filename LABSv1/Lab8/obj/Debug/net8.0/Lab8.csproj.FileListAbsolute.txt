@@ -1,0 +1,29 @@
+C:\Users\Dirana\Downloads\LABSv1\Lab8\bin\Debug\net8.0\Lab8.exe
+C:\Users\Dirana\Downloads\LABSv1\Lab8\bin\Debug\net8.0\Lab8.deps.json
+C:\Users\Dirana\Downloads\LABSv1\Lab8\bin\Debug\net8.0\Lab8.runtimeconfig.json
+C:\Users\Dirana\Downloads\LABSv1\Lab8\bin\Debug\net8.0\Lab8.dll
+C:\Users\Dirana\Downloads\LABSv1\Lab8\bin\Debug\net8.0\Lab8.pdb
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfoInputs.cache
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfo.cs
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\Lab8.dll
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\refint\Lab8.dll
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\Lab8.pdb
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\Lab8.genruntimeconfig.cache
+C:\Users\Dirana\Downloads\LABSv1\Lab8\obj\Debug\net8.0\ref\Lab8.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\bin\Debug\net8.0\Lab8.exe
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\bin\Debug\net8.0\Lab8.deps.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\bin\Debug\net8.0\Lab8.runtimeconfig.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\bin\Debug\net8.0\Lab8.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\bin\Debug\net8.0\Lab8.pdb
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfoInputs.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfo.cs
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\Lab8.csproj.CoreCompileInputs.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\Lab8.sourcelink.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\Lab8.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\refint\Lab8.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\Lab8.pdb
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\Lab8.genruntimeconfig.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab8\obj\Debug\net8.0\ref\Lab8.dll

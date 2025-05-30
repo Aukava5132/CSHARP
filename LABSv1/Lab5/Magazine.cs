@@ -30,17 +30,17 @@ public class Magazine
     public override string ToString()
     {
         string allArticles = "";
-        for (int i = 0; i < _articles.Length; i++)
+        for (int i = 0; i < Articles.Length; i++)
         {
-            allArticles += "\n" + _articles[i];
+            allArticles += "\n" + Articles[i];
         }
-        return $"Назва журналу: {_name}. \nПерiодичнiсть журналу: {_frequency}. \nДата виходу журналу: " +
-                $"{_date:dd.MM.yyyy}. \nНомер тиражу: {_edition}. \nСписок статей в журналi: {allArticles}";
+        return $"Назва журналу: {Name}. \nПерiодичнiсть журналу: {Frequency}. \nДата виходу журналу: " +
+                $"{Date:dd.MM.yyyy}. \nНомер тиражу: {Edition}. \nСписок статей в журналi: {allArticles}";
     }
 
     public string ToShortString()
     {
-        return $"Назва журналу: {_name}.\nНомер тиражу {_edition}. \nСередiй рейтинг {AverateRaiting}";
+        return $"Назва журналу: {Name}.\nНомер тиражу {Edition}. \nСередiй рейтинг {AverateRaiting}";
     }
 
     public string Name
@@ -53,6 +53,12 @@ public class Magazine
     {
         get => _frequency;
         set => _frequency = value;
+    }
+
+    public int Edition
+    {
+        get => _edition;
+        set => _edition = value;
     }
 
     public DateTime Date
@@ -69,8 +75,19 @@ public class Magazine
 
     public double AverateRaiting
     {
-        get => _articles.Average(ItemsArticleRaiting);
+        get
+        {
+            if (Articles == null || Articles.Length == 0)
+                return 0;
+
+            double sum = 0;
+            for (int i = 0; i < Articles.Length; i++)
+                sum += Articles[i].Rating;
+
+            return sum / Articles.Length;
+        }
     }
+
 
     public bool IsFrequency(Frequency frequency)
     {
@@ -79,26 +96,26 @@ public class Magazine
 
     public void AddArticle(Article article)
     {
-        Article[] copyArticle = new Article[_articles.Length + 1];
-        for (int i = 0; i < _articles.Length; i++)
+        Article[] copyArticle = new Article[Articles.Length + 1];
+        for (int i = 0; i < Articles.Length; i++)
         {
-            copyArticle[i] = _articles[i];
+            copyArticle[i] = Articles[i];
         }
-        copyArticle[_articles.Length] = article;
-        _articles = copyArticle;
+        copyArticle[Articles.Length] = article;
+        Articles = copyArticle;
     }
     
     public void AddArticles(Article [] articles)
     {
-        Article[] copyArticle = new Article[_articles.Length + articles.Length + 1];
-        for (int i = 0; i < _articles.Length; i++) //Копiя старого масиву
+        Article[] copyArticle = new Article[Articles.Length + articles.Length + 1];
+        for (int i = 0; i < Articles.Length; i++) //Копiя старого масиву
         {
-            copyArticle[i] = _articles[i];
+            copyArticle[i] = Articles[i];
         }
         for (int i = 0; i < articles.Length; i++) //Дописуем в кiнець новий
         {
-            copyArticle[_articles.Length + i] = articles[i];
+            copyArticle[Articles.Length + i] = articles[i];
         }
-        _articles = copyArticle;
+        Articles = copyArticle;
     }
 }

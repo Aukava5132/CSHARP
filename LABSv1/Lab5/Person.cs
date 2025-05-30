@@ -37,17 +37,17 @@ public class Person
     
     public override string ToString()
     {
-        return $"Iм`я: {_firstName} {_lastName}, Дата народження: {_dateOfBirth:dd.MM.yyyy)}";
+        return $"Iм`я: {FirstName} {LastName}, Дата народження: {DateOfBirth:dd.MM.yyyy)}";
     }
     
     public string ToShortString()
     {
-        return $"{_firstName} {_lastName}";
+        return $"{FirstName} {LastName}";
     }
     
     public int BirthYear
     {
-        get => _dateOfBirth.Year;
-        set => _dateOfBirth = new DateTime(value);
+        get => DateOfBirth.Year;
+        set => DateOfBirth = new DateTime(value);
     }
 }

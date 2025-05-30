@@ -1,0 +1,29 @@
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.exe
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.deps.json
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.runtimeconfig.json
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.dll
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.pdb
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.AssemblyInfoInputs.cache
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.AssemblyInfo.cs
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.csproj.CoreCompileInputs.cache
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.dll
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\refint\Lab9p2.dll
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.pdb
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.genruntimeconfig.cache
+C:\Users\Dirana\Downloads\LABSv1\Lab9p2\obj\Debug\net8.0\ref\Lab9p2.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.exe
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.deps.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.runtimeconfig.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\bin\Debug\net8.0\Lab9p2.pdb
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.AssemblyInfoInputs.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.AssemblyInfo.cs
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.csproj.CoreCompileInputs.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.sourcelink.json
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\refint\Lab9p2.dll
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.pdb
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\Lab9p2.genruntimeconfig.cache
+C:\ \University\АТП СМОО\CSHARP\LABSv1\Lab9p2\obj\Debug\net8.0\ref\Lab9p2.dll
